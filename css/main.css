@@ -1,5 +1,6 @@
-/* 
-your CSS rules and font imports should go here 
-delete this comment, add the import directives for your fonts
-and add the CSS rules as described in the challenge
-*/
+@import url('https://www.google.com/fonts#QuickUsePlace:quickUse/Family:Raleway');
+@import url('https://www.google.com/fonts#QuickUsePlace:quickUse/Family:Lato');
+body{
+	font-family: "Lato", Georgia, Serif;
+	margin-left: 30%;
+	 background-image: url("../img/background.jpg");
