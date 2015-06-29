@@ -14,8 +14,9 @@ a{
     text-decoration: none;
 }
 
+
 a:hover { 
-    background-color: #0000EE;
+    color: #0000EE;
 }
 
 input:focus { 
