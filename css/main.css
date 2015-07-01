@@ -14,7 +14,6 @@ a{
     text-decoration: none;
 }
 
-
 a:hover { 
     color: #0000EE;
 }
@@ -69,12 +68,11 @@ header {
   	}
 }
 
-ul {
+#genInfo {
 	padding: 1em 1em 1em 1em;
-	list-style-type: none;
 }
 
-ol {
+#menu {
 	padding: 1em 1em 1em 1em;
 	background: rgba(207, 205, 140, 0.5);
 }
